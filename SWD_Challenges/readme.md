@@ -1,0 +1,1 @@
+This folder of the *dataviz* repository is reserved for SWD Challenges.
